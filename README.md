@@ -1,6 +1,6 @@
-<div style="text-align: center; font-size: 40px;">
-    夏露露特别版植物大战僵尸 Special PvZ for XiaLulu
-</div>
+#夏露露特别版植物大战僵尸 Special PvZ for XiaLulu
+
+-----------------------------------------------------
 
 感谢项目组各位的支持（以下均为b站id）：
 游戏代码修改：@阑曦Sunlight ，技术指导：@NPC-fafa ，美工、音乐、动画： @White-Shore、@OrelaV 、@阑曦Sunlight  ，测试：@零度仍暖心 、@蜜糖云宝 ，意见：@星空真的菜、@파몽9527天气预报猫
