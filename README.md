@@ -36,6 +36,6 @@
 
 ## [星空真的菜](https://space.bilibili.com/446154524?spm_id_from=333.337.0.0)
 
-[![파몽9527天气预报猫](https://i1.hdslb.com/bfs/face/543d9896eebd3b361c15cf6744fdf21b5a03b8a1.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"@파몽9527天气预报猫")](https://space.bilibili.com/2108506525)
+[![파몽9527天气预报猫](https://i1.hdslb.com/bfs/face/543d9896eebd3b361c15cf6744fdf21b5a03b8a1.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif "@파몽9527天气预报猫")](https://space.bilibili.com/2108506525)
 
 ## [파몽9527天气预报猫](https://space.bilibili.com/2108506525?spm_id_from=333.337.0.0)
