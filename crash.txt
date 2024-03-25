@@ -1,0 +1,26 @@
+Exception: Access Violation (code 0xc0000005) at address 00413A16 in thread 1628
+Module: PlantsVsZombiesXLLV1.0.exe
+Logical Address: 0001:00012A16
+
+001996A8 00413A16 0001:00012A16 PlantsVsZombiesXLLV1.0.exe
+Params: 2BB42B78 25D0FF10 25D0FF08 001996D0
+
+
+EAX:08D7AAF8 EBX:00000002 ECX:00000000 EDX:FFFFFFFF ESI:25D0FF10 EDI:2BB42B78
+EIP:00413A16 ESP:001996AC  EBP:25D0FF08
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00010246
+
+Windows Ver: NT 6.2  Build 9200
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: 1.0.0.1051
+Time Loaded: 00:08:59
+Fullscreen: ·ñ
+Primary ThreadId: 1628
+Times Played: 0
+Build Num: 0
+Build Date: 
+
